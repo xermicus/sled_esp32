@@ -19,6 +19,6 @@
     "frameworks": "arduino",
     "build": 
     {
-      "srcDir": "scripts"
+      "srcDir": "src/modules"
     }
 }
