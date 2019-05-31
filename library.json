@@ -1,0 +1,24 @@
+{
+    "name": "sled_esp32",
+    "keywords": ["LED", "esp32", "xtensa"],
+    "description": "Satanic/Sexy/Stupid/Silly/Shiny LED matrix controller ",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/xermicus/sled_esp32"
+    },
+    "authors":
+    [
+      {
+        "name": "Adrian vifino Pistol",
+        "email": "vifino@tty.sh",
+        "maintainer": true
+      }
+    ],
+    "version": "master",
+    "frameworks": "arduino",
+    "build": 
+    {
+      "srcDir": "scripts"
+    }
+}
