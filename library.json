@@ -17,8 +17,4 @@
     ],
     "version": "master",
     "frameworks": "arduino",
-    "build": 
-    {
-      "libLDFMode": "off"
-    }
 }
